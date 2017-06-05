@@ -1,0 +1,41 @@
+
+/*todo al centro con imagen y letras blancas*/
+@media(min-width: 535px) and (max-width: 824px){
+	[class*="col-"]{
+		width: 100%;
+	}
+
+
+body{
+	background-color: black;
+	font-family: "Lobster", cursive;
+	color: white;
+}
+
+img{
+	border: 6px solid white;
+}
+
+}
+
+
+
+/*fondo calipso letras blancas sin imagen 
+@media(min-width: 200px) and (max-width: 534px){
+	[class*="col-"]{
+		width: 100%;
+	}
+
+
+body{
+	background-color:#07B399;
+	font-family: "India Flowers", cursive;
+	color: #DFDFDF;
+}
+
+img{
+	display: none;
+}
+
+}
+*/
