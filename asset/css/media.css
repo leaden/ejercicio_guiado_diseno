@@ -20,7 +20,7 @@ img{
 
 
 
-/*fondo calipso letras blancas sin imagen 
+/*fondo calipso letras blancas sin imagen */
 @media(min-width: 200px) and (max-width: 534px){
 	[class*="col-"]{
 		width: 100%;
@@ -38,4 +38,3 @@ img{
 }
 
 }
-*/
